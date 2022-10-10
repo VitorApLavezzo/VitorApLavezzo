@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VitorApLavezzo
-🔨 I’m currently working on MeConnect.
+- 🔨 I’m currently working on MeConnect.
 
 <!---
 VitorApLavezzo/VitorApLavezzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
