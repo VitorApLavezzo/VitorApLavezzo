@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VitorApLavezzo
 - 🔨 I’m currently working on MeConnect.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/VitorApLavezzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorApLavezzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
